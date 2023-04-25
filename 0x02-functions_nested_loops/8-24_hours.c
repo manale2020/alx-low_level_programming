@@ -1,6 +1,6 @@
 /*
  * File: 8-24_hours.c
- * Auth: Brennan D Baraban
+ * 
  */
 
 #include "main.h"
